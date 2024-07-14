@@ -1,0 +1,6 @@
+2024-07-14 18:43:56.075129 __init__ (<__main__.Student object at 0x0000022D9372C510>, 'Ruoy', 'Eman', 'your_gender') {} None
+2024-07-14 18:43:56.076129 __init__ (<__main__.Lecturer object at 0x0000022D93594310>, 'Lector', 'Surnameov') {} None
+2024-07-14 18:43:56.076129 __init__ (<__main__.Lecturer object at 0x0000022D93594310>, 'Lector', 'Surnameov') {} None
+2024-07-14 18:43:56.077136 __init__ (<__main__.Reviewer object at 0x0000022D9372C750>, 'Reviewer', 'Patronymickovich') {} None
+2024-07-14 18:43:56.077136 rate_hw (<__main__.Reviewer object at 0x0000022D9372C750>, <__main__.Student object at 0x0000022D9372C510>, 'Python', 10) {} None
+2024-07-14 18:43:56.077136 rate_lector (<__main__.Student object at 0x0000022D9372C510>, <__main__.Lecturer object at 0x0000022D93594310>, 'Python', 10) {} None
